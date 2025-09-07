@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a committed and enthusiastic undergraduate at Dayananda Sagar College of Engineering, pursuing a Bachelor's degree in Robotics and Artificial Intelligence.
+I am a undergraduate at Dayananda Sagar College of Engineering, pursuing a Bachelor's degree in Robotics and Artificial Intelligence.
 
 
 ## 🌐 Socials:
